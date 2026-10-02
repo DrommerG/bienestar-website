@@ -1,0 +1,6 @@
+.claude/
+node_modules/
+*.zip
+Thumbs.db
+desktop.ini
+.DS_Store
