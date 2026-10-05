@@ -6,7 +6,7 @@ export const WHATSAPP_VISIBLE = '+593 99 043 5774';
 
 // DEPLOY STEP: poner aquí la dirección final del sitio (ej. https://www.bienestar.ec).
 // Mientras esté vacío, no se generan canonical, og:url ni sitemap.xml.
-export const SITIO_URL = '';
+export const SITIO_URL = 'https://drommerg.github.io/bienestar-website';
 
 export const MARCA = 'Bienestar';
 export const SUBTITULO = 'Psicología y Neuropsicología';
